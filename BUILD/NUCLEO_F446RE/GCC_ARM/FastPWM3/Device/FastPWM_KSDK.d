@@ -1,0 +1,3 @@
+BUILD/NUCLEO_F446RE/GCC_ARM/FastPWM3/Device/FastPWM_KSDK.o: \
+ FastPWM3/Device/FastPWM_KSDK.cpp \
+ BUILD/NUCLEO_F446RE/GCC_ARM/mbed_config.h
